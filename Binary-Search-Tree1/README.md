@@ -8,6 +8,5 @@
       3       5                 Şeklinde bir görüntü elde ederiz. 
     2             6             Root'un sağından 5,6,7,8,9 sayılarını ve Root'un solundan 1,2,3 sayılarını bulabiliriz.
  1                   7
-                        8
+                       8
                            9
----                           
